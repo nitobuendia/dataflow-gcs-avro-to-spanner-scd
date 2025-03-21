@@ -20,3 +20,7 @@ The Dataflow pipeline supports the following SCD Types:
     date with the current timestamp if the column is passed.
 
 For more details, [check the documentation](./docs/index.md).
+
+*Disclaimer: This a copy/fork for display of work purposes. If you are
+interested in using and/or contributing to this project, refer to the
+[original source](https://github.com/GoogleCloudPlatform/cloud-solutions/tree/592d469d4092c25abff2d0391b9c41d5dcd054ae/projects/dataflow-gcs-avro-to-spanner-scd).*
